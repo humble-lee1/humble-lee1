@@ -85,7 +85,7 @@ I am actively developing my skills toward a Security Operations Center (SOC) rol
 
 ## 📈 Current Development
 - Preparing for CompTIA Security+  
-- Expanding detection capabilities with ELK Stack  
+- Expanding detection capabilities with Splunk  
 - Building advanced multi-stage attack detection labs
 
 ---
